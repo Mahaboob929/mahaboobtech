@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/tech/</loc>
+            <loc>//localhost:1313/tech/</loc>
             <lastmod>2024-06-21T22:50:44+05:30</lastmod>
           </url>
     
@@ -19,33 +19,33 @@
   
     
       <url>
-            <loc>http://localhost:1313/tech/os/what_is_linux/</loc>
+            <loc>//localhost:1313/tech/os/what_is_linux/</loc>
             <lastmod>2024-06-21T22:50:44+05:30</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>//localhost:1313/</loc>
             <lastmod>2024-06-21T00:25:19+05:30</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about/</loc>
+            <loc>//localhost:1313/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/offtopic/</loc>
+            <loc>//localhost:1313/offtopic/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/other/</loc>
+            <loc>//localhost:1313/other/</loc>
           </url>
     
   
