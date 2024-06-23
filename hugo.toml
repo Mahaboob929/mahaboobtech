@@ -1,0 +1,6 @@
+baseURL = '/public'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'congo'
+

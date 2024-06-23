@@ -1,0 +1,33 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Tech"
+  pageRef = "Tech"
+  weight = 10
+
+[[main]]
+  name = "OffTopic"
+  pageRef = "OffTopic"
+  weight = 20
+
+[[main]]
+  name = "other"
+  pageRef = "other"
+  weight = 30
+
+
+
+[[main]]
+  name = "Contact"
+  url = "/"
+  weight = 40
+  
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
+
+

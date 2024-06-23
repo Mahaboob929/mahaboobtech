@@ -1,0 +1,1 @@
+i like to give my thoughts on electronics and my reasearch
