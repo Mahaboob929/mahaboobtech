@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mahaboobtech</title>
-    <link>//localhost:1313/offtopic/</link>
+    <link>//localhost:1313/offtopic.html</link>
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
