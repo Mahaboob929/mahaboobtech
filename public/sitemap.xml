@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>//localhost:1313/tech.html</loc>
+            <loc>http://mahaboobtech.s3-website-region.amazonaws.com/tech.html</loc>
             <lastmod>2024-06-21T22:50:44+05:30</lastmod>
           </url>
     
@@ -19,33 +19,26 @@
   
     
       <url>
-            <loc>//localhost:1313/tech/os/what_is_linux.html</loc>
+            <loc>http://mahaboobtech.s3-website-region.amazonaws.com/tech/os/what_is_linux.html</loc>
             <lastmod>2024-06-21T22:50:44+05:30</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/</loc>
-            <lastmod>2024-06-21T00:25:19+05:30</lastmod>
+            <loc>http://mahaboobtech.s3-website-region.amazonaws.com/about.html</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/about.html</loc>
+            <loc>http://mahaboobtech.s3-website-region.amazonaws.com/offtopic.html</loc>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/offtopic.html</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>//localhost:1313/other.html</loc>
+            <loc>http://mahaboobtech.s3-website-region.amazonaws.com/other.html</loc>
           </url>
     
   

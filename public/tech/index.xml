@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mahaboobtech</title>
-    <link>//localhost:1313/tech.html</link>
+    <link>http://mahaboobtech.s3-website-region.amazonaws.com/tech.html</link>
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Jun 2024 22:50:44 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mahaboobtech.s3-website-region.amazonaws.com/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What_is_linux</title>
-      <link>//localhost:1313/tech/os/what_is_linux.html</link>
+      <link>http://mahaboobtech.s3-website-region.amazonaws.com/tech/os/what_is_linux.html</link>
       <pubDate>Fri, 21 Jun 2024 22:50:44 +0530</pubDate>
-      <guid>//localhost:1313/tech/os/what_is_linux.html</guid>
+      <guid>http://mahaboobtech.s3-website-region.amazonaws.com/tech/os/what_is_linux.html</guid>
       <description>what is linux #OS operating system, ok now what is OS ok just forget about the operating system do you know hardware hardware which is cpu, ram, cd drive , usb etc but to work them there is a software or controller which commands the hardwar to do , that type of environment will be provided by operating system we can make software to do some action with hardware like audacity which is a software the linux provides platform the software to run and like that operating system is very important</description>
     </item>
   </channel>

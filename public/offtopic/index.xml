@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mahaboobtech</title>
-    <link>//localhost:1313/offtopic.html</link>
+    <link>http://mahaboobtech.s3-website-region.amazonaws.com/offtopic.html</link>
     <description>Recent content on mahaboobtech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/offtopic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mahaboobtech.s3-website-region.amazonaws.com/offtopic/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
